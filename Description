@@ -1,1 +1,16 @@
-Here, I'll write down ideas, key notes and anything I'll find necessary to complete this project. But for now I'll go and make lunch.
+Here, I'll write down ideas, key notes and anything I'll find necessary to complete this project.  
+Note:  
+I should upload some earlier documents in order to know what the end result should look like.  
+
+#What it needs:  
+- start with an input list of all the providers for each individual points
+- than should come a map, where you can place each individual providers, assigning an index to each (e.g. 1-10 or A-H or something like this) *(might swap order with the previous score)*
+- than input all the participating teams
+- than comes the part where a schedule is made for the participants and providers  
+needed parameters for that I can name currently: *(add items if necessary)*  
+- number of providers
+- number of participants
+- available time for each spot (might be redundant)
+- start and finish time
+- number of breaks for the teams
+- time when the providers can take a break
